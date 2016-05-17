@@ -13,7 +13,7 @@ You will need to create a biom-formatted file for analysis in R-studio
 
 
 ```
-make.biom(shared=sample.shared, constaxonomy=sample.constaxonomy)
+make.biom(shared=sample.shared, constaxonomy=sample.cons.taxonomy)
 ```
 ## Did sequencing produce more reads for some samples?
 ```
