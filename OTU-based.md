@@ -17,7 +17,7 @@ make.biom(shared=sample.shared, constaxonomy=sample.constaxonomy)
 ```
 ## Did sequencing produce more reads for some samples?
 ```
-mothur > count.groups(shared=stability.an.shared)
+mothur > count.groups(shared=sample.shared)
 ```
 ## Phylogenetic three for betadiversity analysis
 
